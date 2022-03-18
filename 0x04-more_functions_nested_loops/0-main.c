@@ -15,7 +15,3 @@ int main(void)
 	printf("%c: %d\n", c, _isupper(c));
 	return (0);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
